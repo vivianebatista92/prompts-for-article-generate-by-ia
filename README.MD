@@ -51,6 +51,3 @@ Copilot：
 - prompts utilizados
 
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
