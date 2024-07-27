@@ -10,7 +10,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um bootcamp na plataforma da Dio
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um bootcamp na plataforma da [Dio](https://web.dio.me/home)
 
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
